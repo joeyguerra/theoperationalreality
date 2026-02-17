@@ -1,7 +1,7 @@
 {
   "name": "theoperationalreality",
   "version": "1.0.0",
-  "description": "",
+  "description": "A blog about operational reality.",
   "main": "index.mjs",
   "scripts": {
     "start": "node --env-file-if-exists=.env node_modules/.bin/hubot -a @hubot-friends/hubot-service-discovery -n jbot",
